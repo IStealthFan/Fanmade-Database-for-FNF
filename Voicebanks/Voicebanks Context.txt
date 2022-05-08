@@ -1,0 +1,5 @@
+This folder is dedicated to Voicebanks, which are commonly used in Utau. Note that some Voicebanks might sound weird so here are some Resampler suggestions. If none of those work idk
+
+MoreSampler
+TIPS
+Actually just have the whole forum https://utaforum.net/threads/utau-resampler-directory.538/
