@@ -1,0 +1,9 @@
+This is a file which gives links to useful chromatics, sf2s, dwps, and midi packs so that we don't have to download a bunch of stuff.
+
+Chimmies Github (Has a bunch of chromatics so it's useful for pretty much everyone): https://github.com/Chimmie-mpeg/FNF-FANMADE-CHROMATIC-SCALES
+Blantados and Genox Github (Voicebanks + Blantados has midis and chroms): https://github.com/Blantados/blantados-funkin-utau-main https://github.com/GenoX-Fome/funkin-utau
+Shan,Hoi/Flippy,Atorena,NoahWantsDie and other midi packs (Midis are very useful): https://drive.google.com/drive/folders/1qbmLLR_mUawfB6zamv612YtwxbhiUSZU https://drive.google.com/drive/folders/1rBNXZ2pyIepccs62XJ4yQhaSK6mc0Uks https://drive.google.com/file/d/1MeQLfbMgb2jhm9Hf1tfakybpanjsf39x/view https://drive.google.com/drive/folders/1XRoAtyWFtzJ0JqvB7R7nSTLDmcFWaNgK https://github.com/NoahWantsDie/fnf-shits https://gamebanana.com/tools/8006 https://drive.google.com/drive/folders/1qbmLLR_mUawfB6zamv612YtwxbhiUSZU
+Chromatic Scale Generator (Automatically creates Chromatic Scales + it can leave out pitched samples): https://gamebanana.com/tools/8906
+BBPanzu (Has a bunch of stuff): https://github.com/bbpanzu/bb-fnf-mods
+ExtendedCentral (Useful Chromatics): https://github.com/ExtendedCentral/FNF-FANMADE-Chromatic-Scales
+OG Database (Main inspiration but best not to really use until there's more there): https://github.com/TaeYai/FNF-Creator-Database
